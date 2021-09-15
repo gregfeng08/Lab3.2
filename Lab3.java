@@ -1,7 +1,8 @@
 /**-------------------------------------------------------------
-// AUTHOR: Gregory
-// FILENAME: title of the source file.
-// SPECIFICATION: your own description of the program.
+// AUTHOR: Gregory Feng
+// FILENAME: Lab3.java
+// SPECIFICATION: Code that takes the input of 3 grades (with input validation), your homework grade, your midterm grade and your final grade
+ * and puts it through a formula, giving you your final weighted grade for the class and tells you if you failed the class or not.
 // FOR: CSE 110- Lab #3
 // TIME SPENT: 20 minutes
 //-----------------------------------------------------------*/
